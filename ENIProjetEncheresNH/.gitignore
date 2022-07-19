@@ -96,3 +96,9 @@ replay_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/eclipse,java
 /build/
+
+# SQL Server properties
+context.xml
+
+
+
